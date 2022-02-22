@@ -1,2 +1,2 @@
-# Aplicativo-de-anota-o
+# Aplicativo-de-anota
 Aplicativo e anotaçao básico desenvolvido no curso de aplicativo Danki Code
